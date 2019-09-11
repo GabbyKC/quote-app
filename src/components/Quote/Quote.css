@@ -10,7 +10,7 @@
 .content-text {
     position: relative;
     height: 300px;
-    max-width: 570px;
+    width: 570px;
 }
 
 .first-p {
@@ -31,12 +31,16 @@
     display: flex;
     align-content: center;
     justify-content: center;
-    margin-left: 220px
+    margin: 0px 0px 30px 220px;
 }
 
 @media (max-width: 768px) {
     .button-container {
-        margin-left: 100px;
+        margin-left: 80px;
+    }
+
+    .content-text {
+        width: 300px;
     }
 }
 
