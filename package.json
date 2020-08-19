@@ -5,9 +5,9 @@
   "dependencies": {
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-scripts": "^3.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3",
     "serialize-javascript": "^3.1.0",
     "webfontloader": "^1.6.28"
   },
